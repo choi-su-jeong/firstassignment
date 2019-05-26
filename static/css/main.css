@@ -1,0 +1,12 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color:rgb(154, 196, 236);
+}
+
+h1,h4,h6{
+    color: white;
+}
